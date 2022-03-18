@@ -21,7 +21,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #f8f8fc;
+	background-color: #FFFFFF;
 }
 
 /* Styles for lists in the document */
@@ -35,7 +35,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #EE7624;
 }
 
 .biography-details li, .skill-list li {
